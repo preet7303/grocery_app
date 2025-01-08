@@ -1,6 +1,6 @@
  # bloc_learn
 
-This Flutter project is made to learn State Management (Bloc) in flutter. In this application you can add grocery item to wu=ish list and cart. 
+This Flutter project is made to learn State Management (Bloc) in flutter. In this application you can add grocery item to wishlist and cart. 
 
 ## Getting Started
 
